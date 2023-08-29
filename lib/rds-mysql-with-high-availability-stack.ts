@@ -40,6 +40,8 @@ securityGroup.addIngressRule(ec2.Peer.ipv4("0.0.0.0/0"),ec2.Port.tcp(3306), 'All
     vpc,
     vpcSubnets: {
     subnetType: ec2.SubnetType.PUBLIC,    // to create database in private subnet change value to private
+                                          // To create specific private subnet availabilityZones: ['ap-south-1a'], // Replace with your region AZ
+
 },
   publiclyAccessible: true,   // to make database private make value 'false'
   autoMinorVersionUpgrade: true,
