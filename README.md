@@ -1,8 +1,8 @@
-# Welcome to your CDK TypeScript project
+# CDK Code To Setup RDS MySQL With Multi-AZ
 
-This is a blank project for CDK development with TypeScript.
+RDS MySQL Multi AZ Setup. This will help to maintain failover of database.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+
 
 ## Useful commands
 
