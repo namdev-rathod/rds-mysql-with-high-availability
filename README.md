@@ -2,6 +2,7 @@
 
 RDS MySQL Multi AZ Setup. This will help to maintain failover of database.
 
+![RDS-Database drawio](https://github.com/namdev-rathod/rds-mysql-with-high-availability/assets/140707502/3c5c7873-f151-46f1-a2bb-ac316d9054a4)
 
 
 ## Useful commands
