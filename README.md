@@ -2,6 +2,15 @@
 
 RDS MySQL Multi AZ Setup. This will help to maintain failover of database.
 
+In this project below topics covered.
+
+1. Create MySQL RDS Database With Failover
+2. Real Time Troubleshooting
+3. Schedule Database Backup
+4. Security Group Management
+5. RDS In Private Subnet
+6. Master Slave Architecture
+
 ![RDS-Database drawio (1)](https://github.com/namdev-rathod/rds-mysql-with-high-availability/assets/140707502/fb0ba1be-225b-47ac-b99d-300143713918)
 
 
